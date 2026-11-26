@@ -1,0 +1,13 @@
+{
+  "name": "gist-teams",
+  "displayName": "Gist Teams",
+  "version": "1.0.0",
+  "description": "Catch up on team chat, send messages and manage boards and cards in Gist Teams from a conversation.",
+  "author": {
+    "name": "GistLink",
+    "url": "https://gist.link"
+  },
+  "homepage": "https://developers.gist.link/mcp/connectors/teams/",
+  "license": "MIT",
+  "keywords": ["gistlink", "teams", "chat", "tasks"]
+}

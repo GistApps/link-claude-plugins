@@ -1,0 +1,13 @@
+{
+  "name": "gist-crm",
+  "displayName": "Gist CRM",
+  "version": "1.0.0",
+  "description": "Look up customers and accounts, review pipelines, and log activity in Gist CRM from a conversation.",
+  "author": {
+    "name": "GistLink",
+    "url": "https://gist.link"
+  },
+  "homepage": "https://developers.gist.link/mcp/connectors/crm/",
+  "license": "MIT",
+  "keywords": ["gistlink", "crm", "sales", "customers"]
+}

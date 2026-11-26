@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "gist-sheets": {
+      "type": "http",
+      "url": "https://mcp.gist.link/sheets/mcp"
+    }
+  }
+}

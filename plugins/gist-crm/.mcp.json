@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "gist-crm": {
+      "type": "http",
+      "url": "https://mcp.gist.link/crm/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "gist-support",
+  "displayName": "Gist Support",
+  "version": "1.0.0",
+  "description": "Triage the ticket queue, summarize tickets and draft replies in Gist Support from a conversation.",
+  "author": {
+    "name": "GistLink",
+    "url": "https://gist.link"
+  },
+  "homepage": "https://developers.gist.link/mcp/connectors/support/",
+  "license": "MIT",
+  "keywords": ["gistlink", "support", "helpdesk", "tickets"]
+}

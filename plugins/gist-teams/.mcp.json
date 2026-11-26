@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "gist-teams": {
+      "type": "http",
+      "url": "https://mcp.gist.link/teams/mcp"
+    }
+  }
+}

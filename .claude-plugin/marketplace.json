@@ -1,0 +1,47 @@
+{
+  "name": "gistlink",
+  "owner": {
+    "name": "GistLink"
+  },
+  "metadata": {
+    "description": "Gist plugins for Claude: one plugin per Gist app, each with skills and the app's MCP connector.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "gist-calendar",
+      "source": "./plugins/gist-calendar",
+      "description": "See your schedule, find free time and manage events in Gist Calendar."
+    },
+    {
+      "name": "gist-crm",
+      "source": "./plugins/gist-crm",
+      "description": "Look up and update contacts, companies, deals and activities in Gist CRM."
+    },
+    {
+      "name": "gist-drive",
+      "source": "./plugins/gist-drive",
+      "description": "Find, organize and share files and folders in Gist Drive."
+    },
+    {
+      "name": "gist-mail",
+      "source": "./plugins/gist-mail",
+      "description": "Search, read, draft and send email from your Gist Mail mailboxes."
+    },
+    {
+      "name": "gist-sheets",
+      "source": "./plugins/gist-sheets",
+      "description": "Read, analyze and update spreadsheets in Gist Sheets."
+    },
+    {
+      "name": "gist-support",
+      "source": "./plugins/gist-support",
+      "description": "Triage, answer and manage customer support tickets in Gist Support."
+    },
+    {
+      "name": "gist-teams",
+      "source": "./plugins/gist-teams",
+      "description": "Catch up on team chat and manage boards, cards and docs in Gist Teams."
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "gist-drive",
+  "displayName": "Gist Drive",
+  "version": "1.0.0",
+  "description": "Find, organize and share files and folders in Gist Drive from a conversation.",
+  "author": {
+    "name": "GistLink",
+    "url": "https://gist.link"
+  },
+  "homepage": "https://developers.gist.link/mcp/connectors/drive/",
+  "license": "MIT",
+  "keywords": ["gistlink", "drive", "files", "storage"]
+}

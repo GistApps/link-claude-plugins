@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "gist-support": {
+      "type": "http",
+      "url": "https://mcp.gist.link/support/mcp"
+    }
+  }
+}

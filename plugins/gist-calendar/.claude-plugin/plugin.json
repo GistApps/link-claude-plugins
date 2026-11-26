@@ -1,0 +1,13 @@
+{
+  "name": "gist-calendar",
+  "displayName": "Gist Calendar",
+  "version": "1.0.0",
+  "description": "See your schedule, find free time, and create or update events in Gist Calendar from a conversation.",
+  "author": {
+    "name": "GistLink",
+    "url": "https://gist.link"
+  },
+  "homepage": "https://developers.gist.link/mcp/connectors/calendar/",
+  "license": "MIT",
+  "keywords": ["gistlink", "calendar", "scheduling", "meetings"]
+}

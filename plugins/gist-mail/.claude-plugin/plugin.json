@@ -1,0 +1,13 @@
+{
+  "name": "gist-mail",
+  "displayName": "Gist Mail",
+  "version": "1.0.0",
+  "description": "Search, read, triage, draft and send email from your Gist Mail mailboxes in a conversation.",
+  "author": {
+    "name": "GistLink",
+    "url": "https://gist.link"
+  },
+  "homepage": "https://developers.gist.link/mcp/connectors/mail/",
+  "license": "MIT",
+  "keywords": ["gistlink", "email", "mail", "inbox"]
+}

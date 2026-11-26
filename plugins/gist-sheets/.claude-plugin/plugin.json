@@ -1,0 +1,13 @@
+{
+  "name": "gist-sheets",
+  "displayName": "Gist Sheets",
+  "version": "1.0.0",
+  "description": "Read, analyze and update spreadsheets in Gist Sheets: look up values, summarize data, update trackers and append rows from a conversation.",
+  "author": {
+    "name": "GistLink",
+    "url": "https://gist.link"
+  },
+  "homepage": "https://developers.gist.link/mcp/connectors/sheets/",
+  "license": "MIT",
+  "keywords": ["gistlink", "spreadsheets", "sheets", "data"]
+}
